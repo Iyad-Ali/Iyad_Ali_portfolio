@@ -4,3 +4,5 @@
 
 ## [Project 2 : Predicting sale prices of bulldozers](https://github.com/IyadAli-crypto/Predicting-sale-prices-of-bulldozers-using-Machine-Learning)
 
+## [Python Projects](https://github.com/IyadAli-crypto/Python-Projects)
+
