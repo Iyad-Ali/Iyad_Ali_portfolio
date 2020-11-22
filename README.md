@@ -6,3 +6,5 @@
 
 ## [Python Projects](https://github.com/IyadAli-crypto/Python-Projects)
 
+## [Java Projects](https://github.com/IyadAli-crypto/Java-Projects)
+
