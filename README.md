@@ -7,7 +7,7 @@ Machine learning model for predicting heart disease. I made some explatory data 
 Machine learning model for predicting auction prices of bulldozers (It was posted on Kaggle). I made some EDA on the data and preprocessed it. I used the RandomForestRegressor which from my point of view was the best , I did some tuning and it scored RMSLE (Root Mean Squared Logarithmic Error) = 2.46033 on validation data.
 
 ## [Python Projects](https://github.com/IyadAli-crypto/Python-Projects)
-Projects I made using python
+Projects I made using python.
 
 ## [Java Projects](https://github.com/IyadAli-crypto/Java-Projects)
-Projects I made using java
+Projects I made using java.
