@@ -1,6 +1,6 @@
 
 
-## [Project 1 : Nigeria Insurance Prediction](https://github.com/IyadAli-crypto/Nigeria-Insurance-Prediction)
+## [Project 1 : House Insurance claim Prediction](https://github.com/IyadAli-crypto/Nigeria-Insurance-Prediction)
 predictive model to determine if a building will have an insurance claim during a certain period or not. I Cleaned the data , made some EDA then applied some feature engineering the model scored 0.707 on Zindi and placed in the top 30%
 
 ## [Project 2 : Predicting sale prices of bulldozers](https://github.com/IyadAli-crypto/Predicting-sale-prices-of-bulldozers-using-Machine-Learning)
